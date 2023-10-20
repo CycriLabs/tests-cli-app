@@ -132,7 +132,9 @@ jobs:
         run: mvn -B package -DskipTests -P dist,native # space between -P and dist,native is important for Windows PowerShell build
 
       - name: Upload artifacts
-        uses: CycriLabs/publish-assets@v1
+        uses: CycriLabs/publish-assets@develop
+        with:
+          asset_dir: 'target/distributions'
 
   next-dev-version:
     needs: [build-container-image, build-artifacts]
