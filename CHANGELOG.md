@@ -1,3 +1,10 @@
+## [1.1.2](https://github.com/CycriLabs/test-cli-app/compare/1.1.1...1.1.2) (2023-10-20)
+
+
+### Bug Fixes
+
+* switch github token to env ([3416ab2](https://github.com/CycriLabs/test-cli-app/commit/3416ab2da06970ac821d3ca643deae9d484afa34))
+
 ## [1.1.1](https://github.com/CycriLabs/test-cli-app/compare/1.1.0...1.1.1) (2023-10-20)
 
 
