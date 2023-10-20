@@ -135,6 +135,7 @@ jobs:
         uses: CycriLabs/publish-assets@develop
         with:
           asset_dir: 'target/distributions'
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
   next-dev-version:
     needs: [build-container-image, build-artifacts]
