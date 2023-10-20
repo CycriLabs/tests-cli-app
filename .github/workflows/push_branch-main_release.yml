@@ -133,9 +133,10 @@ jobs:
 
       - name: Upload artifacts
         uses: CycriLabs/publish-assets@develop
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           asset_dir: 'target/distributions'
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
   next-dev-version:
     needs: [build-container-image, build-artifacts]
