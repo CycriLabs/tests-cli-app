@@ -1,3 +1,10 @@
+## [1.1.1](https://github.com/CycriLabs/test-cli-app/compare/1.1.0...1.1.1) (2023-10-20)
+
+
+### Bug Fixes
+
+* add github token ([64c632b](https://github.com/CycriLabs/test-cli-app/commit/64c632bb310b62c439348d69bc8910e6702f34b9))
+
 # [1.1.0](https://github.com/CycriLabs/test-cli-app/compare/1.0.0...1.1.0) (2023-10-20)
 
 
