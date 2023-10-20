@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/CycriLabs/test-cli-app/compare/1.0.0...1.1.0) (2023-10-20)
+
+
+### Features
+
+* adapt workflow dependencies ([c0cd8b9](https://github.com/CycriLabs/test-cli-app/commit/c0cd8b956b34cf1e1c510443a06bafb4aef8fe65))
+
 # 1.0.0 (2023-10-20)
 
 
