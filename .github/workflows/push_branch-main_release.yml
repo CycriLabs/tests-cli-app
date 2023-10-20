@@ -131,12 +131,15 @@ jobs:
       - name: Build artifacts
         run: mvn -B package -DskipTests -P dist,native # space between -P and dist,native is important for Windows PowerShell build
 
+      - name: Upload artifacts
+        uses: CycriLabs/publish-assets@v1
+
   next-dev-version:
     needs: [build-container-image, build-artifacts]
     runs-on: ubuntu-latest
     steps:
       - name: Checkout [${{ github.head_ref || github.ref_name }}]
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
         with:
           ref: ${{ github.ref }}
 
