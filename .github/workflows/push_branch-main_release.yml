@@ -137,6 +137,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           asset_dir: 'target/distributions'
+          release_tag: 'latest'
 
   next-dev-version:
     needs: [build-container-image, build-artifacts]
