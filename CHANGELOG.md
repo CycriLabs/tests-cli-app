@@ -1,3 +1,10 @@
+## [1.1.6](https://github.com/CycriLabs/test-cli-app/compare/1.1.5...1.1.6) (2023-10-21)
+
+
+### Bug Fixes
+
+* trigger build ([182478b](https://github.com/CycriLabs/test-cli-app/commit/182478b58184801b3b266319cf7dde9b5120eb6b))
+
 ## [1.1.5](https://github.com/CycriLabs/test-cli-app/compare/1.1.4...1.1.5) (2023-10-21)
 
 
