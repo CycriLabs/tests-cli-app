@@ -1,3 +1,10 @@
+## [1.1.4](https://github.com/CycriLabs/test-cli-app/compare/1.1.3...1.1.4) (2023-10-21)
+
+
+### Bug Fixes
+
+* set missing release tag ([c8b92af](https://github.com/CycriLabs/test-cli-app/commit/c8b92af9ff832da803d36164fa459b190aadd772))
+
 ## [1.1.3](https://github.com/CycriLabs/test-cli-app/compare/1.1.2...1.1.3) (2023-10-20)
 
 
