@@ -160,7 +160,7 @@ jobs:
       - name: Adapt maven settings
         uses: s4u/maven-settings-action@v2
         with:
-          servers: '[{"id": "github", "username": "dummy", "password": "${{ secrets.GH_PAT_FOR_ACTIONS_TOKEN }}"}]'
+          servers: '[{"id": "github", "username": "dummy", "password": "${{ secrets.GITHUB_TOKEN }}"}]'
           githubServer: false
 
       - name: Set next snapshot
