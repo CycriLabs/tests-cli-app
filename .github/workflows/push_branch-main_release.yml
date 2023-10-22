@@ -132,7 +132,7 @@ jobs:
         run: mvn -B package -DskipTests -P dist,native # space between -P and dist,native is important for Windows PowerShell build
 
       - name: Upload artifacts
-        uses: CycriLabs/publish-assets@develop
+        uses: CycriLabs/publish-assets@v1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
