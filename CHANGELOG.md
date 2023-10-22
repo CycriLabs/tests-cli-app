@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/CycriLabs/test-cli-app/compare/1.1.7...1.2.0) (2023-10-22)
+
+
+### Features
+
+* set action version to v1 ([a30686e](https://github.com/CycriLabs/test-cli-app/commit/a30686e0909955cc59395070574a2319ffd49914))
+
 ## [1.1.7](https://github.com/CycriLabs/test-cli-app/compare/1.1.6...1.1.7) (2023-10-21)
 
 
