@@ -1,3 +1,10 @@
+# [1.3.0](https://github.com/CycriLabs/test-cli-app/compare/1.2.0...1.3.0) (2023-10-24)
+
+
+### Features
+
+* use latest main for packages ([20ae9ad](https://github.com/CycriLabs/test-cli-app/commit/20ae9adb130d8833b8b1c4936ec102c62715ca5e))
+
 # [1.2.0](https://github.com/CycriLabs/test-cli-app/compare/1.1.7...1.2.0) (2023-10-22)
 
 
