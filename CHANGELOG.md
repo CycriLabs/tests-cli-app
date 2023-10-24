@@ -1,3 +1,10 @@
+# [1.5.0](https://github.com/CycriLabs/test-cli-app/compare/1.4.0...1.5.0) (2023-10-24)
+
+
+### Features
+
+* test assembly with dir ([c80d938](https://github.com/CycriLabs/test-cli-app/commit/c80d938f43ba3198daab6a171c3adb84c9a5445b))
+
 # [1.4.0](https://github.com/CycriLabs/test-cli-app/compare/1.3.0...1.4.0) (2023-10-24)
 
 
