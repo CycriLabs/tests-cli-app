@@ -1,3 +1,10 @@
+# [1.4.0](https://github.com/CycriLabs/test-cli-app/compare/1.3.0...1.4.0) (2023-10-24)
+
+
+### Features
+
+* use zip as output ([36b947b](https://github.com/CycriLabs/test-cli-app/commit/36b947b6dd218a8fdceb9c12c0fd5773e460fa83))
+
 # [1.3.0](https://github.com/CycriLabs/test-cli-app/compare/1.2.0...1.3.0) (2023-10-24)
 
 
