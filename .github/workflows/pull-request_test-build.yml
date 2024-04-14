@@ -20,7 +20,6 @@ jobs:
         with:
           distribution: 'graalvm'
           java-version: '17'
-          components: 'native-image'
           cache: 'maven'
           github-token: ${{ secrets.GITHUB_TOKEN }}
 
