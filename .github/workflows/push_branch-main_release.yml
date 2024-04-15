@@ -6,9 +6,9 @@ on:
       - main
 
 env:
-  java-version: 17
+  java-version: 21
   distribution: graalvm
-  node-js-version: 18.x
+  node-js-version: 20.x
   author-name: Marc Scheib
   author-email: marc.scheib@cycrilabs.com
 
